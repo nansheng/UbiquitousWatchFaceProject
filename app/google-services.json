@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "24856859211",
+    "project_id": "ubiquitousproject01"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24856859211:android:83b792e26f07bf18",
+        "android_client_info": {
+          "package_name": "com.example.android.sunshine.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8lG-ZM1YPAMOnW3EAAMLqYZ7bGL18AY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
